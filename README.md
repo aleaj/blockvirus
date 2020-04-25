@@ -5,10 +5,20 @@ In here, you will find the progress made by the team BLOCKVIRUS during the PanEu
 ## Who are we?
 We are a group of five undergraduate students in Biomedical engineering, Physics and Graphical design based in Spain. During the present quarentine we want to help society by creating this potential application we describe in this repository. 
 
+![App logo.](/index.jpeg)
+
 ## Defectuous medical material and devices brought from China by Fake providers
 In these days, many of us have seen in the Press and mass media how different EU governments such us the Spanish or the Finnish one have bought unuseful medical supplies that did not passed the European quality controls, loosing a very precious time during the process of buy and a vast amount of money in it.
 Here you can see some of the press records on this problem:
-	/* Insert press url */
+	https://www.bbc.com/news/world-europe-52092395
+	https://www.theguardian.com/world/2020/mar/27/coronavirus-test-kits-withdrawn-spain-poor-accuracy-rate
+	https://www.elmundo.es/television/medios/2020/04/22/5ea0af58fc6c83d03e8b45a3.html
+	https://www.businessinsider.com/coroanvirus-holland-recalls-over-half-a-million-masks-imported-from-china-2020-3?IR=T
+	https://yle.fi/uutiset/3-11313408
+	https://www.vice.com/en_us/article/7kzae9/european-countries-are-throwing-out-rubbish-chinese-made-masks-and-coronavirus-tests
+	http://www.dailyfinland.fi/health/15415/Sub-standard-masks-withdrawn-following-healthcare-workers-illness
+
+![Press screenshot](/press.jpeg)
 
 ## Blockchain as a tool for beating the virus
 Our target is to monitorize the production chain of some of the most valuable devices for healthcare during the pandemia (i.e. facemasks). Using state-of-the-art blockchain algorithms and implementing an online interface we will manage to register each step of the production of this objects preventing factories from outside of the EU community of submitting defective packs to each country gonvernment.
@@ -21,12 +31,21 @@ We are currently working in an html web interface for sellers, customers and dis
 ## What have we done during the Hackathon's weekend?
 After giving shape to our idea, we started to look for previous research done on this problem. We found an IBM code for a blockchain network, some implementations of this technology in the groceries' business and also in medical tools i.e. scalpels and surgery's devices.
 Here is the IBM repository from where we have taken the skelethon of our code.
-	/* IBM url */
-Here are some of the developers we have found that are currently working or have worked in the traceability problem of medical supplies. 
+	https://developer.ibm.com/technologies/blockchain/tutorials/develop-a-blockchain-application-from-scratch-in-python/
+Here are some of the developers we have found that are currently working or have worked in the traceability problem of medical supplies:
+	https://www.technifor.com/markets-and-materials/markets/medical/traceability-of-medical-devices
+	www.fda.gov/medical-devices/postmarket-requirements-devices/medical-device-tracking
+
+Even U.S. Food and Drugs administration has begged for a traceability solution during this crisis, a way of demonstrating that the quality of the devices bought is higher than a standard limit.
+
+Other developers are working on the same idea in the U.S. market.
+	https://cointelegraph.com/news/blockchain-to-authenticate-coronavirus-response-kn95-face-masks-from-china
 
 ## Which is the impact of our solution?
 Using our system would endow the sellers' products of a Quality hallmark beyond European Quality tests (which non-EU products do not have to pass). Now, when a government orders millions of facemasks, for example, will know for sure that they are completely functional and not defectuous which will benefit in saving time spent in finding the stock, money paid to fake distributors and repercussion in mass media that gives a bad image to the Ministery representers.
 What's more, fake distributors won't be able to sell their stockpile and commit fraud. We are helping to create a more lawful market.
+
+![Woman using a quirurjical facemask](/mask.jpg)
 
 ## What do we need to carry out our project in real world
 From now onwards, the gap between our prototype and a final version that could be implemented in the current market does not seem very wide. We need advise on international law, factories and market methods to sell our idea to each link of the production chain. Also, for a final version of the app, a review on cibersecurity hash algorithms needs to be made. Our product has to be secure and procure the clients the privacy the deserve.
@@ -38,6 +57,10 @@ Investors will see there are a lot of opportunities that will give profits to th
 ## Contact information
 In order to contact us you can comment in our Devpost webpage: http://devpost.com/software/blockvirus.
 We are currently participating in EUvsVIRUS Paneuropean hackathon.
+
+
+##
+
 
 
 
